@@ -1,4 +1,4 @@
-package com.xyz.xyzportal;
+package com.xyz;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
